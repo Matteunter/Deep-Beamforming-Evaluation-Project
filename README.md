@@ -7,3 +7,4 @@ a look if you need a more versatile implementation.
 
 DNNs can be trained using Timit dataset. MVDR is used in the DAB script, to generate weights for each channel
 
+noob
